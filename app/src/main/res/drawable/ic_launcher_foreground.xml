@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group android:translateX="-1" android:translateY="-3">
+    <!-- Three ascending steps -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,72 h14 v-10 h14 v-10 h16 v24 a4,4 0 0 1 -4,4 h-36 a4,4 0 0 1 -4,-4 z" />
+    <!-- Sprout on the top step -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M67,52 v-9 h2 v9 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M68,44 c0,-6 4,-10 10,-10 c0,6 -4,10 -10,10 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M68,46 c0,-5 -3,-8 -8,-8 c0,5 3,8 8,8 z" />
+    </group>
+</vector>
